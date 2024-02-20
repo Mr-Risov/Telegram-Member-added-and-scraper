@@ -1,3 +1,2 @@
-python
-telethon
-
+python>=3.7
+telethon>=1.23
