@@ -1,8 +1,8 @@
 Telegram Member added and scraper 
 
-git clone 
+git clone https://github.com/Mr-Risov/Telegram-Member-added-and-scraper.git
 
-cd 
+cd Telegram-Member-added-and-scraper
 
 pip install requirement.txt
 
